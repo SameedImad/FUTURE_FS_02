@@ -51,23 +51,23 @@ const Hero = () => {
                 </div>
               </div>
 
-                <div className="lead-item">
-                  <span className="lead-dot lead-dot-alt"></span>
-                  <div>
-                    <strong>Muneer</strong>
-                    <p>Referral</p>
-                  </div>
-                  <span className="lead-status lead-status-active">New</span>
-                </div>
-
               <div className="lead-list">
                 <div className="lead-item">
                   <span className="lead-dot"></span>
                   <div>
-                    <strong>Sameed Imad</strong>
-                    <p>Website inquiry</p>
+                    <strong>Muneer</strong>
+                    <p>Website</p>
                   </div>
-                  <span className="lead-status lead-status-warm">Contacted</span>
+                  <span className="lead-status lead-status-active">New</span>
+                </div>
+
+                <div className="lead-item">
+                  <span className="lead-dot lead-dot-alt"></span>
+                  <div>
+                    <strong>Sameed Imad</strong>
+                    <p>Referral</p>
+                  </div>
+                  <span className="lead-status lead-status-warm">Converted</span>
                 </div>
 
                 <div className="lead-item">
