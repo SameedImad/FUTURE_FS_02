@@ -67,7 +67,7 @@ const Hero = () => {
                     <strong>Sameed Imad</strong>
                     <p>Referral</p>
                   </div>
-                  <span className="lead-status lead-status-warm">Converted</span>
+                  <span className="lead-status lead-status-warm">Contacted</span>
                 </div>
 
                 <div className="lead-item">
