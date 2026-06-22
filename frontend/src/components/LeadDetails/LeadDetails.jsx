@@ -29,7 +29,7 @@ const LeadDetails = ({ lead, onNavigate }) => {
 
     try {
       const response = await fetch(
-        `http://localhost:5000/api/leads/${lead._id}`,
+        `https://mini-crm-backend-5uyg.onrender.com/api/leads/${lead._id}`,
         {
           method: "PUT",
           headers: {
