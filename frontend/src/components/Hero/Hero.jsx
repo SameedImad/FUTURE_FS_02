@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="hero-content">
           <p className="hero-kicker">SMART MODERN SCALABLE</p>
           <h1 id="hero-title">
-            Customer Relationship Management
+            Client Lead Management Sytem
           </h1>
           <p className="hero-subtitle">
             Collect leads from your website, track their status, manage follow-ups, and convert prospects into clients with one simple dashboard.
